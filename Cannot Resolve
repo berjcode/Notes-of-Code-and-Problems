@@ -1,0 +1,37 @@
+
+
+www.teknolojiyolcusu.com
+
+Cannot Resolve Symbol "Properties" Hatasının Çözümü Güncel    2022 
+
+Merhaba Arkadaşlar, Yeni Karşılaştığımız bir hatanın çözümünü size göstereceğim.
+
+linki takip edin. 
+
+https://www.teknolojiyolcusu.com/2022/04/cannot-resolve-symbol-properties.html  (Görselli anlatım mevcuttur.)
+
+------------------------------------------------------------------------------------------------------------
+
+Cannot Resolve Symbol "Properties" Error Resolution       2022
+
+Hello, I will show you the solution of a bug that we just encountered.
+
+
+follow the link.
+
+https://www.teknolojiyolcusu.com/2022/04/cannot-resolve-symbol-properties.html   (Explanation with visuals is available.)
+
+-------------------------------------------------------------------------------------------------------------
+İlk yapmanız gereken  file- project structure  tıklayarak  sorunu çözeceğimiz ekranı açmanız.
+Bu ekranda   proje SDK  yapısının  son sürüm olup olmadığını kontrol ediniz.
+Modules-Dependencies-Module SDK Kontrol ediniz. Resimlerde gördüğünüz gibi olması gerekir. Sürümler Sizin içeriği gördüğünüz zamana göre değişebilir.
+Bu işlemleri yaparsanız sorun çözülecektir. Eğer çözülmezse  mesaj atarsanız. Beraber çözümünü buluruz.
+
+-------------------------------------------------------------------------------------------------------------
+
+The first thing you need to do is click on the file-project structure to open the screen where we will solve the problem.
+On this screen, check if the project SDK structure is the latest version.
+Check Modules-Dependencies-Module SDK. It should be in the pictures. Customizable version.
+If you follow these steps, the problem will be solved. Message me if not resolved. We find the solution together.
+
+-------------------------------------------------------------------------------------------------------------
